@@ -21,6 +21,6 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "byteballcore": "git+https://github.com/dragonbtm/core.git"
+    "core": "git+https://github.com/dragonbtm/core.git"
   }
 }
