@@ -10,7 +10,7 @@
   ],
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/dragonbtm/relay.git",
+    "url": "git://github.com/dragonbtm/relay.git#master-nofee",
     "type": "git"
   },
   "bugs": {
@@ -21,6 +21,6 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "core": "git+https://github.com/dragonbtm/core.git"
+    "core": "git+https://github.com/dragonbtm/core.git#master-nofees"
   }
 }
